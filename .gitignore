@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/AI/AI_Ghost_Spirit/BP_AI_Anomalies_Controller.uasset
+
+Content/AI/AI_Ghost_Spirit/BP_AI_Anomalies.uasset
